@@ -9,6 +9,11 @@ XUMM Developer Account required.
 
 Create .env file and add API secret and key.
 
+HOSTNAME= localhost
+PORT= 3000
+apikey=**********************
+apisecret=*******************
+
 Install Libnfc (free) - https://github.com/nfc-tools/libnfc
 
 Possibly need to change bindings path.
