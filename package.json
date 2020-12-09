@@ -1,0 +1,20 @@
+{
+  "name": "xumm_pos",
+  "version": "0.0.1",
+  "description": "Point of Sale Terminal for XUMM and XRPl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Slater",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "events": "^3.2.0",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2",
+    "bindings": "^1.3.0",
+    "bluebird": "^3.5.0",
+    "nan": "^2.6.2"
+  }
+}
