@@ -3,7 +3,7 @@ NFC PoS Terminal for XUMM Payload.
 
 Using LibNFC libary to Emulate a forum-tag4 to enable communication between IOS App and the Adafruit PN532 Breakout Board using a FTDI cable directly to macOS.
 
-Currently trying to implement into NodeJS Project. 
+Currently trying to implement into NodeJS Project, but will work as a standalone file is you run emulate-forum-tag4, will send an expired payload.
 
 XUMM Developer Account required.
 
