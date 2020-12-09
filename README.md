@@ -26,4 +26,4 @@ pn532 Breakout board used - https://thepihut.com/products/adafruit-pn532-nfc-rfi
 Tried cheaper boards (PN532 NFC Module V3) over Arduino able to return a response on inital contact whilst emulating but no data is sent after this response.
 (https://www.electroschematics.com/nfc-rfid-module-pn532/)
 
-Also tried a RC5222 only good for reading and writing and a ARC122u, its possible to put this into emulation mode but on my macOS after the first test the USB port becomes disbaled. on firther research this is someing to do with teh ARC122u interface i beleive.
+Also tried a RC5222 only good for reading and writing and a ARC122u, its possible to put this into emulation mode but on my macOS after the first test the USB port becomes disbaled. on firther research this is someing to do with teh ARC122u interface i believe.
